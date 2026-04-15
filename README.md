@@ -8,7 +8,7 @@ Building the future of AI Agent deployment — from zero to production in 60 sec
 
 ### 🚀 RapidClaw
 
-**[RapidClaw](https://rapidclaw.dev)** is an AI Agent deployment platform that makes it dead simple to ship, scale, and monitor AI agents in production. Co-founded with my brother [Brandon Gaucher](https://github.com).
+**[RapidClaw](https://rapidclaw.dev)** is an AI Agent deployment platform that makes it dead simple to ship, scale, and monitor AI agents in production.
 
 ### 🔧 Open Source
 
